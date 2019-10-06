@@ -19,7 +19,7 @@
 class AnalogSensor
 {
 public:
-    AnalogSensor(unsigned int samples);
+    explicit AnalogSensor(unsigned int samples);
     ~AnalogSensor();
     int Read();
 private:
