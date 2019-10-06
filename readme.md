@@ -1,6 +1,5 @@
 # C++ Boilerplate
 [![Build Status](https://travis-ci.org/sandeep-kota/Valgrind-Exercise---ENPM808X.svg?branch=master)](https://travis-ci.org/sandeep-kota/Valgrind-Exercise---ENPM808X)
-[![Coverage Status](https://coveralls.io/repos/github/sandeep-kota/Valgrind-Exercise---ENPM808X.svg?branch=master)](https://coveralls.io/github/sandeep-kota/Valgrind-Exercise---ENPM808X?branch=master)
 ---
 
 ## Overview
